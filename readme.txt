@@ -3,4 +3,4 @@ git is a free software distributed under GPL.
 git has a mutable index called stage.
 git tracks changes of  files.
 github
-create a new branch dev.
+Creating a new branch dev is quick AND simple.
