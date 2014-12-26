@@ -6,4 +6,4 @@ github
 Creating a new branch is quick and simple.
 Using --no-ff
 No using --no-ff
-/usr/bin -from dev
+/usr/bin -from 
